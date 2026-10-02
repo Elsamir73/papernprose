@@ -17,7 +17,7 @@ import type { Post } from "../types";
 
 export default function HomePage() {
   useDocumentMeta(
-    "Find your next book, and know why.",
+    "PapernProse",
     "Thoughtful book reviews, reading lists, and author profiles to help you find your next read.",
   );
   const featured = allBooks[0];

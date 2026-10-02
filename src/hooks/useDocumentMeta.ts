@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 export function useDocumentMeta(title: string, description: string) {
   useEffect(() => {
-    document.title = `${title} | PapernProse`;
+    document.title = title === "PapernProse" ? title : `${title} | PapernProse`;
     const meta = document.querySelector<HTMLMetaElement>(
       'meta[name="description"]',
     );
