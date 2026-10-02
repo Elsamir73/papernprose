@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fantasy",
+    "slug": "fantasy",
+    "description": "Worlds with their own rules, strange bargains, and room for wonder."
+  },
+  {
+    "name": "Literary",
+    "slug": "literary",
+    "description": "Beautifully observed lives, complicated choices, and language that lingers."
+  },
+  {
+    "name": "Mystery",
+    "slug": "mystery",
+    "description": "Carefully planted clues, compelling questions, and satisfying discoveries."
+  },
+  {
+    "name": "Non-fiction",
+    "slug": "non-fiction",
+    "description": "True stories and ideas that make the familiar feel newly vivid."
+  },
+  {
+    "name": "Romance",
+    "slug": "romance",
+    "description": "People finding connection, courage, and a future worth choosing."
+  },
+  {
+    "name": "Sci-fi",
+    "slug": "sci-fi",
+    "description": "Big speculative questions grounded in human-scale stories."
+  }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papernprose.vercel.app/sitemap.xml

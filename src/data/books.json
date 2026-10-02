@@ -1,0 +1,206 @@
+[
+  {
+    "id": "b1",
+    "slug": "the-tidekeepers-at-dusk",
+    "title": "The Tidekeepers at Dusk",
+    "authorId": "a1",
+    "genre": "Fantasy",
+    "year": 2026,
+    "pages": 368,
+    "rating": 4.5,
+    "summary": "On an island where the tide returns lost memories, a young keeper must decide which histories deserve to stay buried.",
+    "review": "Solenne gives this quiet, salt-bright fantasy a remarkable sense of place. Its magic is never more moving than when it asks what a community owes its past.",
+    "coverColor": "#B95F4D",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b2",
+    "slug": "a-map-of-small-rooms",
+    "title": "A Map of Small Rooms",
+    "authorId": "a3",
+    "genre": "Literary",
+    "year": 2025,
+    "pages": 304,
+    "rating": 4,
+    "summary": "Three siblings return to their childhood apartment to decide what to keep, and discover how differently they remember it.",
+    "review": "North's precise, generous prose makes domestic details feel quietly monumental. A thoughtful novel about inheritance that avoids easy answers.",
+    "coverColor": "#718779",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b3",
+    "slug": "the-last-light-in-merrow",
+    "title": "The Last Light in Merrow",
+    "authorId": "a2",
+    "genre": "Mystery",
+    "year": 2026,
+    "pages": 336,
+    "rating": 4.5,
+    "summary": "A lighthouse ledger turns up after a storm, linking a present-day disappearance to a keeper who vanished decades earlier.",
+    "review": "Wells makes a small harbor feel like a puzzle with weather. The reveals are earned, and the final pages land with real emotional weight.",
+    "coverColor": "#D0A14E",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b4",
+    "slug": "field-notes-for-a-changing-sky",
+    "title": "Field Notes for a Changing Sky",
+    "authorId": "a4",
+    "genre": "Non-fiction",
+    "year": 2024,
+    "pages": 272,
+    "rating": 4,
+    "summary": "A naturalist travels through six threatened landscapes to learn what local caretakers notice first.",
+    "review": "Arora pairs clear reporting with a deep respect for the people doing patient work. The book is candid about loss without surrendering its curiosity.",
+    "coverColor": "#66869B",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b5",
+    "slug": "the-orbit-between-us",
+    "title": "The Orbit Between Us",
+    "authorId": "a5",
+    "genre": "Sci-fi",
+    "year": 2026,
+    "pages": 352,
+    "rating": 4.5,
+    "summary": "Two engineers on a remote station inherit a failing habitat and one very complicated message from home.",
+    "review": "Tanaka keeps the engineering details legible and the characters delightfully human. A warm, tense story about building trust under pressure.",
+    "coverColor": "#786A91",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b6",
+    "slug": "letters-from-briar-house",
+    "title": "Letters from Briar House",
+    "authorId": "a6",
+    "genre": "Romance",
+    "year": 2025,
+    "pages": 320,
+    "rating": 4,
+    "summary": "A practical estate gardener and an impulsive letter writer clash over the future of a neglected country house.",
+    "review": "Rowe brings wit and tenderness to a familiar setup, with two leads who grow in believable directions. The letters are a particular pleasure.",
+    "coverColor": "#A96B70",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b7",
+    "slug": "the-quiet-engine",
+    "title": "The Quiet Engine",
+    "authorId": "a5",
+    "genre": "Sci-fi",
+    "year": 2025,
+    "pages": 288,
+    "rating": 3.5,
+    "summary": "In a city powered by shared dreams, a technician begins to hear the same unknown voice each night.",
+    "review": "An inventive premise with an understated, humane center. The world-building is strongest in the small rituals people invent to feel safe.",
+    "coverColor": "#587F82",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b8",
+    "slug": "what-the-river-keeps",
+    "title": "What the River Keeps",
+    "authorId": "a2",
+    "genre": "Mystery",
+    "year": 2024,
+    "pages": 312,
+    "rating": 4,
+    "summary": "A local reporter revisits a decades-old ferry accident when a name appears in the river's seasonal census.",
+    "review": "A patient mystery with a keen ear for a town's competing versions of itself. The answer matters, but so does how the questions are asked.",
+    "coverColor": "#597D68",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b9",
+    "slug": "an-inventory-of-morning",
+    "title": "An Inventory of Morning",
+    "authorId": "a3",
+    "genre": "Literary",
+    "year": 2026,
+    "pages": 256,
+    "rating": 4.5,
+    "summary": "A baker begins recording the neighborhood sounds before dawn and finds an unexpected way back to her estranged brother.",
+    "review": "North finds a lovely structure in repeated mornings and small acts of attention. A compact, affecting novel that trusts its readers.",
+    "coverColor": "#BD825C",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b10",
+    "slug": "the-house-of-second-weather",
+    "title": "The House of Second Weather",
+    "authorId": "a1",
+    "genre": "Fantasy",
+    "year": 2024,
+    "pages": 400,
+    "rating": 4,
+    "summary": "A house changes its rooms with the seasons, sheltering travelers who each carry a promise they cannot keep.",
+    "review": "A richly imagined ensemble story about hospitality and change. The episodic shape gives every guest room to surprise us.",
+    "coverColor": "#806F52",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b11",
+    "slug": "a-practical-history-of-clouds",
+    "title": "A Practical History of Clouds",
+    "authorId": "a4",
+    "genre": "Non-fiction",
+    "year": 2025,
+    "pages": 240,
+    "rating": 3.5,
+    "summary": "An accessible tour of how communities have read, measured, and lived beneath the changing sky.",
+    "review": "The best chapters connect scientific shifts to everyday decisions. Arora's enthusiasm is infectious, and the illustrations are described with care.",
+    "coverColor": "#9A8C69",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  },
+  {
+    "id": "b12",
+    "slug": "the-long-way-to-june",
+    "title": "The Long Way to June",
+    "authorId": "a6",
+    "genre": "Romance",
+    "year": 2026,
+    "pages": 344,
+    "rating": 4.5,
+    "summary": "Two rival train conductors share a route, a broken timetable, and an increasingly difficult reason to say goodbye.",
+    "review": "A charming slow burn with a wonderfully specific setting. Rowe balances the travel mishaps with a sincere story about choosing a direction together.",
+    "coverColor": "#66805F",
+    "buyLinks": [
+      { "label": "Bookshop", "url": "#" },
+      { "label": "Publisher", "url": "#" }
+    ]
+  }
+]

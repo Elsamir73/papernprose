@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p1",
+    "slug": "books-for-the-in-between-season",
+    "title": "Books for the in-between season",
+    "category": "Reading list",
+    "date": "2026-09-22",
+    "excerpt": "Six thoughtful reads for the days when the weather cannot quite make up its mind.",
+    "body": [
+      "Some weeks seem to belong to no season at all. These are the weeks for books that hold more than one feeling at a time: a little uncertainty, a little anticipation, and room to change your mind.",
+      "Start with a close-to-home novel, then travel outward through a harbor mystery and a speculative story about making shelter. Each one understands that transitions are their own kind of place.",
+      "We chose these titles for their patience with unfinished things. Pick whichever cover catches your eye and let the first few pages decide."
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "review-the-tidekeepers",
+    "title": "Review: The Tidekeepers at Dusk",
+    "category": "Review",
+    "date": "2026-09-18",
+    "excerpt": "Mira Solenne's island fantasy asks who gets to keep a community's memories.",
+    "body": [
+      "The island in Mira Solenne's new novel measures time by what the tide gives back. At first, the premise sounds like a neat mechanism; soon it becomes a tender way to talk about grief and public memory.",
+      "The Tidekeepers at Dusk is most compelling when its characters disagree about what remembrance demands. Solenne lets those conflicts breathe, and the island's rules remain beautifully concrete.",
+      "Our verdict: a thoughtful, immersive fantasy for readers who like their magic tied to human consequences. We rated it four and a half stars."
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "a-conversation-with-dev-arora",
+    "title": "A conversation with Dev Arora",
+    "category": "Interview",
+    "date": "2026-09-12",
+    "excerpt": "On field notes, patient attention, and how landscapes teach us to look again.",
+    "body": [
+      "We spoke with science writer Dev Arora about the notebooks behind Field Notes for a Changing Sky and the people who shaped its reporting.",
+      "Arora describes fieldwork as a practice of noticing before explaining. The most useful questions, he says, often come from local caretakers who have watched the same place longer than any visiting researcher.",
+      "The conversation wandered from weather instruments to handwritten maps, and returned to the value of paying attention without pretending that attention alone can fix everything."
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "how-we-rate-books",
+    "title": "How we rate books",
+    "category": "News",
+    "date": "2026-09-06",
+    "excerpt": "A short note on what our stars mean, and what they cannot tell you.",
+    "body": [
+      "A rating is a shorthand, not a verdict on who should read a book. We use half-stars when they help distinguish a strong recommendation from a near-perfect fit.",
+      "Our reviews consider craft, clarity, originality, and how well a book meets its own ambitions. Genre expectations matter, but there is no single checklist that applies to every novel or nonfiction title.",
+      "We hope the review itself gives you enough detail to decide whether a book suits your taste. If a rating and a paragraph disagree for you, trust your reading."
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "three-mysteries-with-a-sense-of-place",
+    "title": "Three mysteries with a sense of place",
+    "category": "Reading list",
+    "date": "2026-08-29",
+    "excerpt": "Clues are only part of the story in these mysteries shaped by their settings.",
+    "body": [
+      "A strong setting can make a mystery feel less like a puzzle box and more like a community under pressure. These three books use their landscapes as active parts of the story.",
+      "In The Last Light in Merrow, a storm changes what can be seen from the harbor. What the River Keeps follows the way a town's geography shapes its memory.",
+      "Read them for the solutions, certainly, but stay for the vivid sense that a place keeps its own account of events."
+    ]
+  },
+  {
+    "id": "p6",
+    "slug": "autumn-reading-room",
+    "title": "Welcome to the autumn reading room",
+    "category": "News",
+    "date": "2026-08-18",
+    "excerpt": "A note from the editors on our first season of reviews and reading lists.",
+    "body": [
+      "PapernProse began with a small idea: good recommendations should tell you why a book might matter to you, not just whether it is popular.",
+      "This season, we are publishing reviews, conversations, and reading lists across six genres. Every book in our sample library is fictional, but the care behind our editorial format is real.",
+      "Thank you for spending a little of your reading time with us. We hope you find a book that stays in the room after you close it."
+    ]
+  }
+]

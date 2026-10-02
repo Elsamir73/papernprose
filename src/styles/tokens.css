@@ -1,0 +1,51 @@
+:root {
+  --bg: #eef1ec;
+  --surface: #fbfcfa;
+  --ink: #1b2430;
+  --muted: #5b6672;
+  --line: #d3d9d0;
+  --accent: #0f5c5e;
+  --accent-ink: #ffffff;
+  --star: #c98a0b;
+  --sans: "Instrument Sans", sans-serif;
+  --heading: "Newsreader", serif;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141a20;
+    --surface: #1c242c;
+    --ink: #e8ece6;
+    --muted: #9aa6b0;
+    --line: #2e3944;
+    --accent: #5fb8b4;
+    --accent-ink: #0b1416;
+    --star: #e8b33c;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #141a20;
+  --surface: #1c242c;
+  --ink: #e8ece6;
+  --muted: #9aa6b0;
+  --line: #2e3944;
+  --accent: #5fb8b4;
+  --accent-ink: #0b1416;
+  --star: #e8b33c;
+  color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --bg: #eef1ec;
+  --surface: #fbfcfa;
+  --ink: #1b2430;
+  --muted: #5b6672;
+  --line: #d3d9d0;
+  --accent: #0f5c5e;
+  --accent-ink: #ffffff;
+  --star: #c98a0b;
+  color-scheme: light;
+}

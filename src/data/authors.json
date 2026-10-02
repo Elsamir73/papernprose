@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a1",
+    "slug": "mira-solenne",
+    "name": "Mira Solenne",
+    "bio": "Mira writes intimate fantasy about ordinary people asked to carry impossible histories. She lives near a restless coastline and collects old maps.",
+    "color": "#C97860"
+  },
+  {
+    "id": "a2",
+    "slug": "jonah-wells",
+    "name": "Jonah Wells",
+    "bio": "A former night-shift archivist, Jonah builds mysteries from overlooked details and the stories people leave unfinished.",
+    "color": "#5E8C83"
+  },
+  {
+    "id": "a3",
+    "slug": "celia-north",
+    "name": "Celia North",
+    "bio": "Celia's literary novels follow families through the small decisions that alter a life. She teaches writing in the city where she grew up.",
+    "color": "#D1A35A"
+  },
+  {
+    "id": "a4",
+    "slug": "dev-arora",
+    "name": "Dev Arora",
+    "bio": "Dev is a science writer fascinated by the way landscapes preserve human memory. His essays have appeared in several imaginary journals.",
+    "color": "#7186A1"
+  },
+  {
+    "id": "a5",
+    "slug": "ren-tanaka",
+    "name": "Ren Tanaka",
+    "bio": "Ren writes hopeful science fiction and tender romances about people making a home in unexpected places.",
+    "color": "#A7758B"
+  },
+  {
+    "id": "a6",
+    "slug": "ada-rowe",
+    "name": "Ada Rowe",
+    "bio": "Ada's historical romances pair sharp-witted characters with richly researched settings and a generous sense of humor.",
+    "color": "#87945C"
+  }
+]
