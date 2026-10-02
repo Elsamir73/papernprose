@@ -1,7 +1,20 @@
 # Deploy to Vercel
 
-1. Push this project to a GitHub repository.
-2. In Vercel, choose **Add New → Project**, import the GitHub repository, and deploy with framework preset **Vite**, build command `npm run build`, and output directory `dist`.
-3. After deployment, open a deep link directly, such as `https://your-deployment.vercel.app/books/the-tidekeepers-at-dusk`, and refresh it. It should load the book page instead of returning a 404.
-4. To add a custom domain, open the project **Settings → Domains**, enter the domain, and follow Vercel's DNS instructions at your registrar. Update `public/robots.txt`, `public/sitemap.xml`, and the canonical metadata in `index.html` to the new live domain, then commit and push.
-5. To redeploy, push a commit to the connected GitHub branch. Vercel builds and deploys automatically; use **Deployments → Redeploy** to rerun an existing deployment manually.
+1. Push this project to the GitHub repository at `https://github.com/Elsamir73/papernprose`.
+2. In Vercel, choose **Add New → Project** and import `https://github.com/Elsamir73/papernprose`.
+3. Set framework preset to **Vite**, build command to `npm run build`, and output directory to `dist`, then deploy.
+4. After deployment, open `https://papernprose.vercel.app/books` directly in a new tab and refresh. The catalog should load instead of returning a 404.
+5. To add a custom domain, open the project **Settings → Domains**, enter the domain, and follow Vercel's DNS instructions at your registrar. Update `public/robots.txt`, `public/sitemap.xml`, and the canonical metadata in `index.html` to the new live domain, then commit and push.
+6. To redeploy manually, use **Deployments → Redeploy**. New commits pushed to the connected GitHub branch deploy automatically.
+
+## Updating the site
+
+Edit the project files, then run:
+
+```sh
+git add .
+git commit -m "message"
+git push
+```
+
+Vercel redeploys automatically after the push.
